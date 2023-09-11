@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Thattaphol
-- 👀 I’m interested in Data analyst with Python, SQL, Excel ,Spreadsheet
+- 👀 I’m interested in Data analyst with Python, SQL, Excel, Spreadsheet, PowerBI (Dax), Looker studio
 - 🌱 I’m currently learning Python, Excel Advance (Power Query)
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/thatthaphol-srikeatkeawmanee/
